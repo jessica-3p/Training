@@ -1,0 +1,1 @@
+console.log("Another rainy day on the Central Coast.");
